@@ -30,7 +30,7 @@ radii[2] = 6.0;
 radii[3] = 6.38;
 radii[4] = 2.0;
 
-distances[0] = 0.0;
+distances[0] = 0.0;311110000000000000000000000000000000000000000000000000000000000000000000
 distances[1] = 40.0;
 distances[2] = 70.0;
 distances[3] = 100.0;
@@ -53,7 +53,7 @@ rotationPositions[1] = 0;
 rotationPositions[2] = 0;
 rotationPositions[3] = 0;
 rotationPositions[4] = 0;
- 
+ lalalaaaallaaa
 
 }
 
